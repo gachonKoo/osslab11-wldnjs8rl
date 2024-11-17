@@ -8,5 +8,5 @@ if __name__ == "__main__":
     a = area(radius)
 
     # 출력 형식에 맞게 출력
-    print("c =", c)
-    print("area =", a)
+    print("c =", c)  # 공백 포함
+    print("area =", a)  # 공백 포함
